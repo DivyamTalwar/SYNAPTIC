@@ -2,7 +2,7 @@
 
 # 🧠 **SYNAPTIC** 🧠
 
-### ✨ *Where Machines Don't Just Compute—They Think, Reason, and Understand* ✨
+### ✨ *Where Machines Don't Just Compute - They Think, Reason, and Understand* ✨
 ### 🚀 *Hierarchical Intelligence Through Synchronized Neural Architecture* 🚀
 
 ![SYNAPTIC Banner](https://img.shields.io/badge/SYNAPTIC-v1.0.0-blueviolet?style=for-the-badge&logo=brain&logoColor=white)
@@ -23,11 +23,11 @@
 
 > *"In the beginning, there was computation. But computation alone is not intelligence."*
 
-In the sprawling digital cosmos where artificial intelligence models grow exponentially larger—consuming entire data centers worth of compute for marginal gains—a group of researchers asked a heretical question:
+In the sprawling digital cosmos where artificial intelligence models grow exponentially larger consuming entire data centers worth of compute for marginal gains a group of researchers asked a heretical question:
 
 **What if we've been building intelligence wrong all along?**
 
-The human brain, with its mere 20 watts of power consumption, routinely outperforms supercomputers in tasks requiring genuine understanding. It doesn't achieve this through brute force, but through an elegant hierarchy of processing systems—fast, reactive circuits dancing with slow, deliberative networks in perfect synchrony.
+The human brain, with its mere 20 watts of power consumption, routinely outperforms supercomputers in tasks requiring genuine understanding. It doesn't achieve this through brute force, but through an elegant hierarchy of processing systems fast, reactive circuits dancing with slow, deliberative networks in perfect synchrony.
 
 SYNAPTIC was born from this revelation. It's not just another model. It's a **paradigm shift** in how we architect intelligence.
 
@@ -57,7 +57,7 @@ SYNAPTIC embodies the **dual-process theory** of cognition:
 - **System 1**: Fast, intuitive, pattern-matching (L-Module)
 - **System 2**: Slow, deliberate, logical reasoning (H-Module)
 
-Together, they create something greater than the sum of their parts—**emergent intelligence**.
+Together, they create something greater than the sum of their parts **emergent intelligence**.
 
 ---
 
@@ -133,7 +133,7 @@ flowchart LR
 
 ### 1. 🔄 **Adaptive Computation Time (ACT)**
 
-SYNAPTIC doesn't just process—it **decides how deeply to think**.
+SYNAPTIC doesn't just process it **decides how deeply to think**.
 
 ```mermaid
 stateDiagram-v2
@@ -774,7 +774,7 @@ SYNAPTIC stands on the shoulders of giants:
 - **Anthropic** for focus on interpretability
 - **The broader AI community** for continuous inspiration
 
-Special thanks to all contributors, researchers, and dreamers who believe in a future where machines don't just compute—they understand.
+Special thanks to all contributors, researchers, and dreamers who believe in a future where machines don't just compute they understand.
 
 ---
 
